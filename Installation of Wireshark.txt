@@ -1,12 +1,9 @@
 - Wireshark 설치 방법
 
-1. www.wireshark.org/   에 접속한다.
+1. www.wireshark.org/ 에 접속한다.
 
 2. Download 배너를 눌러 자신의 운영체제에 맞는 설치 파일을 다운받는다.
 
 3. 설치 경로를 설정하고 추가로 설정을 건들릴 필요 없으므로 계속 다음 버튼을 누르고 설치를 완료한다.
 
 signed by Leader
-signed by member2(김동영)
-
-2018-11-13
